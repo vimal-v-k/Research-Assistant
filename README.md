@@ -7,19 +7,18 @@ A comprehensive speech-to-text research assistant that records audio, separates 
 - **Audio Processing**  
   🎤 Real-time microphone recording  
   🔊 Vocal separation using Demucs  
-  ⚡ GPU-accelerated processing (when available)
 
 - **Speech-to-Text**  
   ✍️ OpenAI Whisper transcription  
-  🧹 Automatic grammar correction  
-  📝 Structured content formatting
+  🧹 Automatic grammar correction using Deepseek-R1  
+  📝 Structured content formatting using Deepseek-R1  
 
 - **Document Generation**  
-  📄 Automatic DOCX & PDF creation  
+  📄 Automatic PDF creation  
   🏷️ Smart filename generation  
   ⏱️ Timestamped logs
 
-- **Knowledge Retrieval**  
+- **Knowledge Retrieval Using Deepseek-R1**  
   📚 PDF document processing  
   🔍 Vector similarity search  
   ❓ Document-based Q&A
